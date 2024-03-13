@@ -1,0 +1,17 @@
+body {
+    background-color: lightskyblue;
+}
+
+.iphone-image {
+    background-image: url(istockphoto-1388225387-612x612-removebg-preview.png);
+    min-height: 80dvh;
+    background-size: cover;
+    background-position: bottom;
+}
+
+.iphone-image2 {
+    background-image: url(istockphoto-1357855356-612x612-removebg-preview.png);
+    min-height: 80dvh;
+    background-size: cover;
+    background-position: top;
+}
